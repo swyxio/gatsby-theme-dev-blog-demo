@@ -1,4 +1,4 @@
-# Gatsby Theme Dev Blog
+# Gatsby Theme Dev Blog Demo
 
 this is a demo of https://github.com/sw-yx/gatsby-theme-dev-blog, a Gatsby Theme made from https://github.com/gaearon/overreacted.io.
 
