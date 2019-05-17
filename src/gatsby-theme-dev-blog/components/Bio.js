@@ -1,6 +1,6 @@
 import React from "react"
 import profilePic from "gatsby-theme-dev-blog/src/assets/profile-pic.jpg"
-import { rhythm } from "gatsby-theme-dev-blog/src//utils/typography"
+import { rhythm } from "gatsby-theme-dev-blog/src/utils/typography"
 
 class Bio extends React.Component {
   render() {
