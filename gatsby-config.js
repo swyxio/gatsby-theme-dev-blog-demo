@@ -3,6 +3,10 @@ module.exports = {
     title: `Gatsby Theme Dev Blog`,
     description: `Write your dev blog with no graphql!`,
     author: `@swyx`,
+    siteUrl: "https://overreacted.io",
+    social: {
+      twitter: "@swyx",
+    },
   },
   __experimentalThemes: [
     {
