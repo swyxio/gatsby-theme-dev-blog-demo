@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Theme Dev Blog`,
-    description: `Write your dev blog with no graphql!`,
+    title: `Gatsby Theme Dev Blog Demo`,
     author: `@swyx`,
-    siteUrl: "https://overreacted.io",
+    description: `Write your dev blog with no graphql!`,
+    siteUrl: "https://gatsby-theme-dev-blog.netlify.com", // no trailing slash!
+    repoUrl: "https://github.com/sw-yx/gatsby-theme-dev-blog-demo",
     social: {
       twitter: "@swyx",
     },
@@ -12,7 +13,10 @@ module.exports = {
     {
       resolve: "gatsby-theme-dev-blog",
       options: {
-        unusedOptionForNow: 5,
+        trackingId: "UA-YOURNUMBERHERE-1",
+        RSSFeedTitle: `gatsby-theme-dev-blog RSS Feed`,
+        BlogName: `gatsby-theme-dev-blog demo - a Demo of Gatsby Themes`,
+        BlogShortName: `gatsby-theme-dev-blog Demo`,
       },
     },
   ],
