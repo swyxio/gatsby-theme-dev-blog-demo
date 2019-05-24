@@ -7,6 +7,7 @@ spoiler: Adding options (with warnings!) for gatsby-theme-dev-blog
 I continue to hack on `gatsby-theme-dev-blog`.
 
 > 💁🏼‍All code here can be seen in [the `gatsby-theme-dev-blog` source code](https://github.com/sw-yx/gatsby-theme-dev-blog)
+> 📺 This was also [livestreamed with commentary on Youtube](https://www.youtube.com/watch?v=FxKhVu4yWMI).
 
 ## Passing options into a Gatsby Theme
 
