@@ -12,7 +12,7 @@ I continue to hack on `gatsby-theme-dev-blog`.
 
 ## Passing options into a Gatsby Theme
 
-My [initial attempt](/hello-world) was farily successful, but left a lot of stuff that needed customization because Dan hardcoded a lot of his personal information. You can pass in customization data from the top level gatsby project (aka consumer of the gatsby theme) into themes by overriding `siteMetadata`, but also you can pass in options into the theme:
+My [initial attempt](/hello-world) was fairly successful, but left a lot of stuff that needed customization because Dan hardcoded a lot of his personal information. You can pass in customization data from the top level gatsby project (aka consumer of the gatsby theme) into themes by overriding `siteMetadata`, but also you can pass in options into the theme:
 
 ```js
 // gatsby-config.js for the top level consumer of the gatsby theme
